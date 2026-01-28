@@ -104,3 +104,6 @@ Too Low!
 Congratulations! You guessed the number.
 Number of Attempts: 4
 Thanks for Playing!
+
+Author Chhavi Jain
+jchhavi2317@gmail.com
