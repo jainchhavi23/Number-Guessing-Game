@@ -1,4 +1,3 @@
-# Number-Guessing-Game
 # 🎯 Number Guessing Game (Python)
 
 A simple and fun **console-based number guessing game** built using **Python 🐍**.  
